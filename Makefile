@@ -4,7 +4,11 @@ SUBLEVEL = 0
 EXTRAVERSION =
 NAME = Shuffling Zombie Juror
 
+<<<<<<< HEAD
 # *DOCUMENTATION test*
+=======
+# *DOCUMENTATION*
+>>>>>>> 91b8506a864f6aa37a12eab8b8119e7956fc81a3
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
 # Comments in this file are targeted only to the developer, do not
